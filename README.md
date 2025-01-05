@@ -1,0 +1,1 @@
+# -Implement-a-program-to-print-only-diagonal-elements-in-2-D-array
